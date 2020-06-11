@@ -1,16 +1,15 @@
-# news_provider
+# News App
 
-A new Flutter project.
+App to show the news (Filtered by country)
 
-## Getting Started
+- Provider, ChangeNotifierProvider y Multiprovider
+- Http
+- NewsAPI
+- PageView
+- PageControllers
+- Maintain the state of the application
 
-This project is a starting point for a Flutter application.
+News App 
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/RodrigoPorras/news_app/blob/master/gifs/news.gif" height="500" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
